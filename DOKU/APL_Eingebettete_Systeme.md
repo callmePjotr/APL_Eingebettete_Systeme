@@ -67,3 +67,17 @@ https://github.com/AwotG/Arduino-MAX17055_Driver/tree/master
 ![alt text](image-6.png)
 
 - diese minimale Abweichung ensteht halt immer dann, wenn ich das Board kurz abziehen muss, damit wenn ich laden will, die LED auch auf ROT geht und tatsächlich geladen wird
+
+### Besprochene Änderungen
+
+- zusätzlich wurde eine grafische Ausgabe erzeugt mit matplotlib
+- erst wurde die [MAX17055_Example.ino](../einsendung_neu/test/examples/MAX17055_Example/MAX17055_Example.ino) angepasst
+- jetzt mit Ausgabe auf dem Display
+- Anzeige ob geladen oder entladen wird
+- außerdem sind zwei Dateien hinzugekommen, einmal ein python Skript, welches den Output der seriellen Schnittstelle in eine .csv umwandelt (**txt_to_csv.py**)
+- und ein Skript, welches aus der csv dann die Daten in einen Graphen plottet (**plotData.py**)
+- das Laden und Entladen dauert relativ lange, dummerweise habe ich das einmal gemacht, aber man kann irgendwie nicht alles aus der seriellen Schnittstelle in der Arduino IDE kopieren
+- deswegen habe ich auf Putty gewechselt und nicht komplett entladen sondern nur eine halbe Stunde entladen und eine halbe Stunde geladen
+- die geplotteten Graphne sehen dann ungefähr so aus:
+
+![alt text](graphen.png)

@@ -1,0 +1,2024 @@
+Aktuelle Kapazität: 389.51 mAh
+Spannung: 3.932 V
+Strom: -193.91 mA
+Laufzeit: 00:23:12
+Aktuelle Kapazität: 389.45 mAh
+Spannung: 3.935 V
+Strom: -191.56 mA
+Laufzeit: 00:23:17
+Aktuelle Kapazität: 389.34 mAh
+Spannung: 3.932 V
+Strom: -192.34 mA
+Laufzeit: 00:23:22
+Aktuelle Kapazität: 389.22 mAh
+Spannung: 3.933 V
+Strom: -192.50 mA
+Laufzeit: 00:23:27
+Aktuelle Kapazität: 389.08 mAh
+Spannung: 3.931 V
+Strom: -192.66 mA
+Laufzeit: 00:23:32
+Aktuelle Kapazität: 389.02 mAh
+Spannung: 3.930 V
+Strom: -194.06 mA
+Laufzeit: 00:23:38
+Aktuelle Kapazität: 388.91 mAh
+Spannung: 3.930 V
+Strom: -193.91 mA
+Laufzeit: 00:23:43
+Aktuelle Kapazität: 388.79 mAh
+Spannung: 3.929 V
+Strom: -192.03 mA
+Laufzeit: 00:23:48
+Aktuelle Kapazität: 388.67 mAh
+Spannung: 3.929 V
+Strom: -192.66 mA
+Laufzeit: 00:23:53
+Aktuelle Kapazität: 388.59 mAh
+Spannung: 3.928 V
+Strom: -192.34 mA
+Laufzeit: 00:23:58
+Aktuelle Kapazität: 388.48 mAh
+Spannung: 3.927 V
+Strom: -193.59 mA
+Laufzeit: 00:24:03
+Aktuelle Kapazität: 388.36 mAh
+Spannung: 3.926 V
+Strom: -193.91 mA
+Laufzeit: 00:24:08
+Aktuelle Kapazität: 388.24 mAh
+Spannung: 3.925 V
+Strom: -191.41 mA
+Laufzeit: 00:24:13
+Aktuelle Kapazität: 388.18 mAh
+Spannung: 3.926 V
+Strom: -193.28 mA
+Laufzeit: 00:24:19
+Aktuelle Kapazität: 388.05 mAh
+Spannung: 3.923 V
+Strom: -193.28 mA
+Laufzeit: 00:24:24
+Aktuelle Kapazität: 387.93 mAh
+Spannung: 3.925 V
+Strom: -192.81 mA
+Laufzeit: 00:24:29
+Aktuelle Kapazität: 387.81 mAh
+Spannung: 3.922 V
+Strom: -192.50 mA
+Laufzeit: 00:24:34
+Aktuelle Kapazität: 387.75 mAh
+Spannung: 3.923 V
+Strom: -193.28 mA
+Laufzeit: 00:24:39
+Aktuelle Kapazität: 387.62 mAh
+Spannung: 3.922 V
+Strom: -192.66 mA
+Laufzeit: 00:24:44
+Aktuelle Kapazität: 387.50 mAh
+Spannung: 3.922 V
+Strom: -191.87 mA
+Laufzeit: 00:24:49
+Aktuelle Kapazität: 387.38 mAh
+Spannung: 3.922 V
+Strom: -194.37 mA
+Laufzeit: 00:24:54
+Aktuelle Kapazität: 387.32 mAh
+Spannung: 3.922 V
+Strom: -192.97 mA
+Laufzeit: 00:24:59
+Aktuelle Kapazität: 387.21 mAh
+Spannung: 3.921 V
+Strom: -192.03 mA
+Laufzeit: 00:25:05
+Aktuelle Kapazität: 387.07 mAh
+Spannung: 3.919 V
+Strom: -192.03 mA
+Laufzeit: 00:25:10
+Aktuelle Kapazität: 386.95 mAh
+Spannung: 3.918 V
+Strom: -192.66 mA
+Laufzeit: 00:25:15
+Aktuelle Kapazität: 386.89 mAh
+Spannung: 3.918 V
+Strom: -193.28 mA
+Laufzeit: 00:25:20
+Aktuelle Kapazität: 386.78 mAh
+Spannung: 3.917 V
+Strom: -191.56 mA
+Laufzeit: 00:25:25
+Aktuelle Kapazität: 386.64 mAh
+Spannung: 3.917 V
+Strom: -191.56 mA
+Laufzeit: 00:25:30
+Aktuelle Kapazität: 386.52 mAh
+Spannung: 3.915 V
+Strom: -192.50 mA
+Laufzeit: 00:25:35
+Aktuelle Kapazität: 386.46 mAh
+Spannung: 3.915 V
+Strom: -192.50 mA
+Laufzeit: 00:25:40
+Aktuelle Kapazität: 386.35 mAh
+Spannung: 3.916 V
+Strom: -192.81 mA
+Laufzeit: 00:25:46
+Aktuelle Kapazität: 386.23 mAh
+Spannung: 3.913 V
+Strom: -191.87 mA
+Laufzeit: 00:25:51
+Aktuelle Kapazität: 386.09 mAh
+Spannung: 3.914 V
+Strom: -193.44 mA
+Laufzeit: 00:25:56
+Aktuelle Kapazität: 386.04 mAh
+Spannung: 3.914 V
+Strom: -192.81 mA
+Laufzeit: 00:26:01
+Aktuelle Kapazität: 385.92 mAh
+Spannung: 3.912 V
+Strom: -191.56 mA
+Laufzeit: 00:26:06
+Aktuelle Kapazität: 385.80 mAh
+Spannung: 3.913 V
+Strom: -192.34 mA
+Laufzeit: 00:26:11
+Aktuelle Kapazität: 385.66 mAh
+Spannung: 3.912 V
+Strom: -191.41 mA
+Laufzeit: 00:26:16
+Aktuelle Kapazität: 385.55 mAh
+Spannung: 3.911 V
+Strom: -192.81 mA
+Laufzeit: 00:26:21
+Aktuelle Kapazität: 385.49 mAh
+Spannung: 3.910 V
+Strom: -193.75 mA
+Laufzeit: 00:26:26
+Aktuelle Kapazität: 385.37 mAh
+Spannung: 3.910 V
+Strom: -192.03 mA
+Laufzeit: 00:26:32
+Aktuelle Kapazität: 385.25 mAh
+Spannung: 3.909 V
+Strom: -191.56 mA
+Laufzeit: 00:26:37
+Aktuelle Kapazität: 385.12 mAh
+Spannung: 3.908 V
+Strom: -191.72 mA
+Laufzeit: 00:26:42
+Aktuelle Kapazität: 385.06 mAh
+Spannung: 3.909 V
+Strom: -190.47 mA
+Laufzeit: 00:26:47
+Aktuelle Kapazität: 384.94 mAh
+Spannung: 3.908 V
+Strom: -191.87 mA
+Laufzeit: 00:26:52
+Aktuelle Kapazität: 384.82 mAh
+Spannung: 3.907 V
+Strom: -190.47 mA
+Laufzeit: 00:26:57
+Aktuelle Kapazität: 384.69 mAh
+Spannung: 3.907 V
+Strom: -190.78 mA
+Laufzeit: 00:27:02
+Aktuelle Kapazität: 384.57 mAh
+Spannung: 3.907 V
+Strom: -190.62 mA
+Laufzeit: 00:27:07
+Aktuelle Kapazität: 384.51 mAh
+Spannung: 3.904 V
+Strom: -193.28 mA
+Laufzeit: 00:27:13
+Aktuelle Kapazität: 384.39 mAh
+Spannung: 3.906 V
+Strom: -193.28 mA
+Laufzeit: 00:27:18
+Aktuelle Kapazität: 384.28 mAh
+Spannung: 3.904 V
+Strom: -190.78 mA
+Laufzeit: 00:27:23
+Aktuelle Kapazität: 384.14 mAh
+Spannung: 3.902 V
+Strom: -192.66 mA
+Laufzeit: 00:27:28
+Aktuelle Kapazität: 384.02 mAh
+Spannung: 3.902 V
+Strom: -191.09 mA
+Laufzeit: 00:27:33
+Aktuelle Kapazität: 383.96 mAh
+Spannung: 3.902 V
+Strom: -190.00 mA
+Laufzeit: 00:27:38
+Aktuelle Kapazität: 383.85 mAh
+Spannung: 3.902 V
+Strom: -191.72 mA
+Laufzeit: 00:27:43
+Aktuelle Kapazität: 383.71 mAh
+Spannung: 3.902 V
+Strom: -190.62 mA
+Laufzeit: 00:27:48
+Aktuelle Kapazität: 383.59 mAh
+Spannung: 3.900 V
+Strom: -192.34 mA
+Laufzeit: 00:27:54
+Aktuelle Kapazität: 383.48 mAh
+Spannung: 3.900 V
+Strom: -192.34 mA
+Laufzeit: 00:27:59
+Aktuelle Kapazität: 383.42 mAh
+Spannung: 3.900 V
+Strom: -191.72 mA
+Laufzeit: 00:28:04
+Aktuelle Kapazität: 383.30 mAh
+Spannung: 3.900 V
+Strom: -190.78 mA
+Laufzeit: 00:28:09
+Aktuelle Kapazität: 383.16 mAh
+Spannung: 3.897 V
+Strom: -190.62 mA
+Laufzeit: 00:28:14
+Aktuelle Kapazität: 383.05 mAh
+Spannung: 3.898 V
+Strom: -191.09 mA
+Laufzeit: 00:28:19
+Aktuelle Kapazität: 382.93 mAh
+Spannung: 3.896 V
+Strom: -192.03 mA
+Laufzeit: 00:28:24
+Aktuelle Kapazität: 382.87 mAh
+Spannung: 3.897 V
+Strom: -190.00 mA
+Laufzeit: 00:28:29
+Aktuelle Kapazität: 382.73 mAh
+Spannung: 3.895 V
+Strom: -190.00 mA
+Laufzeit: 00:28:34
+Aktuelle Kapazität: 382.62 mAh
+Spannung: 3.896 V
+Strom: -190.94 mA
+Laufzeit: 00:28:40
+Aktuelle Kapazität: 382.50 mAh
+Spannung: 3.895 V
+Strom: -191.72 mA
+Laufzeit: 00:28:45
+Aktuelle Kapazität: 382.38 mAh
+Spannung: 3.895 V
+Strom: -190.94 mA
+Laufzeit: 00:28:50
+Aktuelle Kapazität: 382.32 mAh
+Spannung: 3.894 V
+Strom: -192.03 mA
+Laufzeit: 00:28:55
+Aktuelle Kapazität: 382.19 mAh
+Spannung: 3.893 V
+Strom: -191.56 mA
+Laufzeit: 00:29:00
+Aktuelle Kapazität: 382.07 mAh
+Spannung: 3.894 V
+Strom: -191.41 mA
+Laufzeit: 00:29:05
+Aktuelle Kapazität: 381.95 mAh
+Spannung: 3.893 V
+Strom: -191.72 mA
+Laufzeit: 00:29:10
+Aktuelle Kapazität: 381.84 mAh
+Spannung: 3.894 V
+Strom: -192.03 mA
+Laufzeit: 00:29:15
+Aktuelle Kapazität: 381.76 mAh
+Spannung: 3.891 V
+Strom: -190.31 mA
+Laufzeit: 00:29:21
+Aktuelle Kapazität: 381.64 mAh
+Spannung: 3.891 V
+Strom: -189.69 mA
+Laufzeit: 00:29:26
+Aktuelle Kapazität: 381.52 mAh
+Spannung: 3.890 V
+Strom: -191.09 mA
+Laufzeit: 00:29:31
+Aktuelle Kapazität: 381.41 mAh
+Spannung: 3.890 V
+Strom: -190.62 mA
+Laufzeit: 00:29:36
+Aktuelle Kapazität: 381.27 mAh
+Spannung: 3.890 V
+Strom: -190.31 mA
+Laufzeit: 00:29:41
+Aktuelle Kapazität: 381.21 mAh
+Spannung: 3.889 V
+Strom: -190.78 mA
+Laufzeit: 00:29:46
+Aktuelle Kapazität: 381.09 mAh
+Spannung: 3.889 V
+Strom: -190.94 mA
+Laufzeit: 00:29:51
+Aktuelle Kapazität: 380.98 mAh
+Spannung: 3.889 V
+Strom: -191.41 mA
+Laufzeit: 00:29:56
+Aktuelle Kapazität: 380.86 mAh
+Spannung: 3.887 V
+Strom: -190.78 mA
+Laufzeit: 00:30:01
+Aktuelle Kapazität: 380.72 mAh
+Spannung: 3.888 V
+Strom: -190.78 mA
+Laufzeit: 00:30:07
+Aktuelle Kapazität: 380.66 mAh
+Spannung: 3.888 V
+Strom: -191.09 mA
+Laufzeit: 00:30:12
+Aktuelle Kapazität: 380.55 mAh
+Spannung: 3.886 V
+Strom: -191.56 mA
+Laufzeit: 00:30:17
+Aktuelle Kapazität: 380.43 mAh
+Spannung: 3.887 V
+Strom: -190.47 mA
+Laufzeit: 00:30:22
+Aktuelle Kapazität: 380.29 mAh
+Spannung: 3.885 V
+Strom: -189.37 mA
+Laufzeit: 00:30:27
+Aktuelle Kapazität: 380.18 mAh
+Spannung: 3.887 V
+Strom: -190.94 mA
+Laufzeit: 00:30:32
+Aktuelle Kapazität: 380.12 mAh
+Spannung: 3.885 V
+Strom: -192.81 mA
+Laufzeit: 00:30:37
+Aktuelle Kapazität: 380.00 mAh
+Spannung: 3.885 V
+Strom: -190.47 mA
+Laufzeit: 00:30:42
+Aktuelle Kapazität: 379.88 mAh
+Spannung: 3.883 V
+Strom: -190.78 mA
+Laufzeit: 00:30:48
+Aktuelle Kapazität: 379.75 mAh
+Spannung: 3.884 V
+Strom: -190.62 mA
+Laufzeit: 00:30:53
+Aktuelle Kapazität: 379.63 mAh
+Spannung: 3.884 V
+Strom: -191.09 mA
+Laufzeit: 00:30:58
+Aktuelle Kapazität: 379.51 mAh
+Spannung: 3.883 V
+Strom: -191.41 mA
+Laufzeit: 00:31:03
+Aktuelle Kapazität: 379.45 mAh
+Spannung: 3.882 V
+Strom: -190.31 mA
+Laufzeit: 00:31:08
+Aktuelle Kapazität: 379.32 mAh
+Spannung: 3.882 V
+Strom: -190.47 mA
+Laufzeit: 00:31:13
+Aktuelle Kapazität: 379.20 mAh
+Spannung: 3.881 V
+Strom: -190.62 mA
+Laufzeit: 00:31:18
+Aktuelle Kapazität: 379.08 mAh
+Spannung: 3.880 V
+Strom: -192.03 mA
+Laufzeit: 00:31:23
+Aktuelle Kapazität: 378.96 mAh
+Spannung: 3.881 V
+Strom: -189.69 mA
+Laufzeit: 00:31:29
+Aktuelle Kapazität: 378.91 mAh
+Spannung: 3.881 V
+Strom: -190.94 mA
+Laufzeit: 00:31:34
+Aktuelle Kapazität: 378.77 mAh
+Spannung: 3.879 V
+Strom: -190.31 mA
+Laufzeit: 00:31:39
+Aktuelle Kapazität: 378.65 mAh
+Spannung: 3.880 V
+Strom: -190.78 mA
+Laufzeit: 00:31:44
+Aktuelle Kapazität: 378.54 mAh
+Spannung: 3.878 V
+Strom: -190.94 mA
+Laufzeit: 00:31:49
+Aktuelle Kapazität: 378.42 mAh
+Spannung: 3.878 V
+Strom: -190.78 mA
+Laufzeit: 00:31:54
+Aktuelle Kapazität: 378.34 mAh
+Spannung: 3.878 V
+Strom: -191.72 mA
+Laufzeit: 00:31:59
+Aktuelle Kapazität: 378.22 mAh
+Spannung: 3.879 V
+Strom: -191.87 mA
+Laufzeit: 00:32:04
+Aktuelle Kapazität: 378.11 mAh
+Spannung: 3.878 V
+Strom: -189.53 mA
+Laufzeit: 00:32:09
+Aktuelle Kapazität: 377.99 mAh
+Spannung: 3.875 V
+Strom: -189.84 mA
+Laufzeit: 00:32:15
+Aktuelle Kapazität: 377.85 mAh
+Spannung: 3.877 V
+Strom: -189.06 mA
+Laufzeit: 00:32:20
+Aktuelle Kapazität: 377.79 mAh
+Spannung: 3.876 V
+Strom: -191.41 mA
+Laufzeit: 00:32:25
+Aktuelle Kapazität: 377.68 mAh
+Spannung: 3.876 V
+Strom: -191.87 mA
+Laufzeit: 00:32:30
+Aktuelle Kapazität: 377.56 mAh
+Spannung: 3.875 V
+Strom: -191.41 mA
+Laufzeit: 00:32:35
+Aktuelle Kapazität: 377.44 mAh
+Spannung: 3.875 V
+Strom: -189.37 mA
+Laufzeit: 00:32:40
+Aktuelle Kapazität: 377.50 mAh
+Spannung: 4.107 V
+Strom: 610.47 mA
+Laufzeit: 00:32:45
+Aktuelle Kapazität: 377.79 mAh
+Spannung: 4.115 V
+Strom: 586.09 mA
+Laufzeit: 00:32:50
+Aktuelle Kapazität: 378.05 mAh
+Spannung: 4.119 V
+Strom: 562.34 mA
+Laufzeit: 00:32:56
+Aktuelle Kapazität: 378.28 mAh
+Spannung: 4.124 V
+Strom: 548.44 mA
+Laufzeit: 00:33:01
+Aktuelle Kapazität: 378.54 mAh
+Spannung: 4.126 V
+Strom: 533.12 mA
+Laufzeit: 00:33:06
+Aktuelle Kapazität: 378.71 mAh
+Spannung: 4.127 V
+Strom: 521.41 mA
+Laufzeit: 00:33:11
+Aktuelle Kapazität: 378.96 mAh
+Spannung: 4.129 V
+Strom: 506.87 mA
+Laufzeit: 00:33:16
+Aktuelle Kapazität: 379.20 mAh
+Spannung: 4.132 V
+Strom: 499.69 mA
+Laufzeit: 00:33:21
+Aktuelle Kapazität: 379.39 mAh
+Spannung: 4.134 V
+Strom: 489.53 mA
+Laufzeit: 00:33:26
+Aktuelle Kapazität: 379.63 mAh
+Spannung: 4.134 V
+Strom: 483.59 mA
+Laufzeit: 00:33:31
+Aktuelle Kapazität: 379.80 mAh
+Spannung: 4.136 V
+Strom: 471.56 mA
+Laufzeit: 00:33:36
+Aktuelle Kapazität: 380.06 mAh
+Spannung: 4.138 V
+Strom: 468.59 mA
+Laufzeit: 00:33:42
+Aktuelle Kapazität: 380.23 mAh
+Spannung: 4.137 V
+Strom: 459.22 mA
+Laufzeit: 00:33:47
+Aktuelle Kapazität: 380.49 mAh
+Spannung: 4.140 V
+Strom: 458.59 mA
+Laufzeit: 00:33:52
+Aktuelle Kapazität: 380.66 mAh
+Spannung: 4.140 V
+Strom: 449.84 mA
+Laufzeit: 00:33:57
+Aktuelle Kapazität: 380.86 mAh
+Spannung: 4.141 V
+Strom: 445.78 mA
+Laufzeit: 00:34:02
+Aktuelle Kapazität: 381.04 mAh
+Spannung: 4.144 V
+Strom: 440.16 mA
+Laufzeit: 00:34:07
+Aktuelle Kapazität: 381.21 mAh
+Spannung: 4.143 V
+Strom: 438.28 mA
+Laufzeit: 00:34:12
+Aktuelle Kapazität: 381.46 mAh
+Spannung: 4.145 V
+Strom: 433.75 mA
+Laufzeit: 00:34:17
+Aktuelle Kapazität: 381.64 mAh
+Spannung: 4.145 V
+Strom: 430.00 mA
+Laufzeit: 00:34:23
+Aktuelle Kapazität: 381.84 mAh
+Spannung: 4.146 V
+Strom: 421.25 mA
+Laufzeit: 00:34:28
+Aktuelle Kapazität: 382.01 mAh
+Spannung: 4.147 V
+Strom: 419.84 mA
+Laufzeit: 00:34:33
+Aktuelle Kapazität: 382.19 mAh
+Spannung: 4.148 V
+Strom: 417.19 mA
+Laufzeit: 00:34:38
+Aktuelle Kapazität: 382.38 mAh
+Spannung: 4.148 V
+Strom: 413.12 mA
+Laufzeit: 00:34:43
+Aktuelle Kapazität: 382.50 mAh
+Spannung: 4.148 V
+Strom: 410.16 mA
+Laufzeit: 00:34:48
+Aktuelle Kapazität: 382.68 mAh
+Spannung: 4.150 V
+Strom: 408.91 mA
+Laufzeit: 00:34:53
+Aktuelle Kapazität: 382.87 mAh
+Spannung: 4.151 V
+Strom: 402.50 mA
+Laufzeit: 00:34:58
+Aktuelle Kapazität: 383.05 mAh
+Spannung: 4.153 V
+Strom: 402.50 mA
+Laufzeit: 00:35:04
+Aktuelle Kapazität: 383.22 mAh
+Spannung: 4.152 V
+Strom: 394.69 mA
+Laufzeit: 00:35:09
+Aktuelle Kapazität: 383.36 mAh
+Spannung: 4.152 V
+Strom: 392.50 mA
+Laufzeit: 00:35:14
+Aktuelle Kapazität: 383.54 mAh
+Spannung: 4.154 V
+Strom: 389.53 mA
+Laufzeit: 00:35:19
+Aktuelle Kapazität: 383.71 mAh
+Spannung: 4.152 V
+Strom: 383.75 mA
+Laufzeit: 00:35:24
+Aktuelle Kapazität: 383.91 mAh
+Spannung: 4.156 V
+Strom: 381.87 mA
+Laufzeit: 00:35:29
+Aktuelle Kapazität: 384.02 mAh
+Spannung: 4.154 V
+Strom: 380.62 mA
+Laufzeit: 00:35:34
+Aktuelle Kapazität: 384.20 mAh
+Spannung: 4.156 V
+Strom: 377.34 mA
+Laufzeit: 00:35:39
+Aktuelle Kapazität: 384.34 mAh
+Spannung: 4.157 V
+Strom: 373.44 mA
+Laufzeit: 00:35:44
+Aktuelle Kapazität: 384.51 mAh
+Spannung: 4.157 V
+Strom: 371.41 mA
+Laufzeit: 00:35:50
+Aktuelle Kapazität: 384.63 mAh
+Spannung: 4.157 V
+Strom: 369.69 mA
+Laufzeit: 00:35:55
+Aktuelle Kapazität: 384.82 mAh
+Spannung: 4.159 V
+Strom: 366.87 mA
+Laufzeit: 00:36:00
+Aktuelle Kapazität: 384.94 mAh
+Spannung: 4.160 V
+Strom: 360.47 mA
+Laufzeit: 00:36:05
+Aktuelle Kapazität: 385.12 mAh
+Spannung: 4.160 V
+Strom: 358.91 mA
+Laufzeit: 00:36:10
+Aktuelle Kapazität: 385.25 mAh
+Spannung: 4.160 V
+Strom: 355.94 mA
+Laufzeit: 00:36:15
+Aktuelle Kapazität: 385.43 mAh
+Spannung: 4.159 V
+Strom: 354.69 mA
+Laufzeit: 00:36:20
+Aktuelle Kapazität: 385.55 mAh
+Spannung: 4.162 V
+Strom: 349.53 mA
+Laufzeit: 00:36:25
+Aktuelle Kapazität: 385.74 mAh
+Spannung: 4.162 V
+Strom: 347.81 mA
+Laufzeit: 00:36:31
+Aktuelle Kapazität: 385.86 mAh
+Spannung: 4.161 V
+Strom: 342.66 mA
+Laufzeit: 00:36:36
+Aktuelle Kapazität: 385.98 mAh
+Spannung: 4.162 V
+Strom: 340.00 mA
+Laufzeit: 00:36:41
+Aktuelle Kapazität: 386.09 mAh
+Spannung: 4.162 V
+Strom: 337.81 mA
+Laufzeit: 00:36:46
+Aktuelle Kapazität: 386.29 mAh
+Spannung: 4.163 V
+Strom: 334.53 mA
+Laufzeit: 00:36:51
+Aktuelle Kapazität: 386.41 mAh
+Spannung: 4.163 V
+Strom: 332.19 mA
+Laufzeit: 00:36:56
+Aktuelle Kapazität: 386.52 mAh
+Spannung: 4.164 V
+Strom: 329.22 mA
+Laufzeit: 00:37:01
+Aktuelle Kapazität: 386.64 mAh
+Spannung: 4.165 V
+Strom: 328.28 mA
+Laufzeit: 00:37:06
+Aktuelle Kapazität: 386.84 mAh
+Spannung: 4.164 V
+Strom: 324.22 mA
+Laufzeit: 00:37:11
+Aktuelle Kapazität: 386.95 mAh
+Spannung: 4.165 V
+Strom: 320.47 mA
+Laufzeit: 00:37:17
+Aktuelle Kapazität: 387.07 mAh
+Spannung: 4.164 V
+Strom: 318.12 mA
+Laufzeit: 00:37:22
+Aktuelle Kapazität: 387.21 mAh
+Spannung: 4.165 V
+Strom: 318.75 mA
+Laufzeit: 00:37:27
+Aktuelle Kapazität: 387.32 mAh
+Spannung: 4.165 V
+Strom: 314.84 mA
+Laufzeit: 00:37:32
+Aktuelle Kapazität: 387.44 mAh
+Spannung: 4.168 V
+Strom: 314.22 mA
+Laufzeit: 00:37:37
+Aktuelle Kapazität: 387.56 mAh
+Spannung: 4.166 V
+Strom: 310.31 mA
+Laufzeit: 00:37:42
+Aktuelle Kapazität: 387.70 mAh
+Spannung: 4.167 V
+Strom: 309.06 mA
+Laufzeit: 00:37:47
+Aktuelle Kapazität: 387.81 mAh
+Spannung: 4.166 V
+Strom: 307.50 mA
+Laufzeit: 00:37:52
+Aktuelle Kapazität: 387.93 mAh
+Spannung: 4.169 V
+Strom: 306.09 mA
+Laufzeit: 00:37:58
+Aktuelle Kapazität: 388.05 mAh
+Spannung: 4.168 V
+Strom: 302.97 mA
+Laufzeit: 00:38:03
+Aktuelle Kapazität: 388.18 mAh
+Spannung: 4.169 V
+Strom: 302.19 mA
+Laufzeit: 00:38:08
+Aktuelle Kapazität: 388.30 mAh
+Spannung: 4.168 V
+Strom: 299.22 mA
+Laufzeit: 00:38:13
+Aktuelle Kapazität: 388.42 mAh
+Spannung: 4.170 V
+Strom: 298.44 mA
+Laufzeit: 00:38:18
+Aktuelle Kapazität: 388.54 mAh
+Spannung: 4.171 V
+Strom: 294.06 mA
+Laufzeit: 00:38:23
+Aktuelle Kapazität: 388.67 mAh
+Spannung: 4.170 V
+Strom: 293.59 mA
+Laufzeit: 00:38:28
+Aktuelle Kapazität: 388.79 mAh
+Spannung: 4.169 V
+Strom: 291.56 mA
+Laufzeit: 00:38:33
+Aktuelle Kapazität: 388.91 mAh
+Spannung: 4.170 V
+Strom: 288.28 mA
+Laufzeit: 00:38:39
+Aktuelle Kapazität: 389.02 mAh
+Spannung: 4.171 V
+Strom: 290.47 mA
+Laufzeit: 00:38:44
+Aktuelle Kapazität: 389.16 mAh
+Spannung: 4.170 V
+Strom: 287.03 mA
+Laufzeit: 00:38:49
+Aktuelle Kapazität: 389.28 mAh
+Spannung: 4.172 V
+Strom: 284.69 mA
+Laufzeit: 00:38:54
+Aktuelle Kapazität: 389.39 mAh
+Spannung: 4.171 V
+Strom: 283.44 mA
+Laufzeit: 00:38:59
+Aktuelle Kapazität: 389.51 mAh
+Spannung: 4.172 V
+Strom: 280.00 mA
+Laufzeit: 00:39:04
+Aktuelle Kapazität: 389.57 mAh
+Spannung: 4.171 V
+Strom: 278.75 mA
+Laufzeit: 00:39:09
+Aktuelle Kapazität: 389.71 mAh
+Spannung: 4.170 V
+Strom: 275.47 mA
+Laufzeit: 00:39:14
+Aktuelle Kapazität: 389.82 mAh
+Spannung: 4.172 V
+Strom: 276.56 mA
+Laufzeit: 00:39:19
+Aktuelle Kapazität: 389.94 mAh
+Spannung: 4.174 V
+Strom: 275.78 mA
+Laufzeit: 00:39:25
+Aktuelle Kapazität: 390.06 mAh
+Spannung: 4.173 V
+Strom: 270.78 mA
+Laufzeit: 00:39:30
+Aktuelle Kapazität: 390.20 mAh
+Spannung: 4.173 V
+Strom: 272.50 mA
+Laufzeit: 00:39:35
+Aktuelle Kapazität: 390.25 mAh
+Spannung: 4.173 V
+Strom: 267.19 mA
+Laufzeit: 00:39:40
+Aktuelle Kapazität: 390.37 mAh
+Spannung: 4.172 V
+Strom: 268.59 mA
+Laufzeit: 00:39:45
+Aktuelle Kapazität: 390.49 mAh
+Spannung: 4.172 V
+Strom: 265.47 mA
+Laufzeit: 00:39:50
+Aktuelle Kapazität: 390.62 mAh
+Spannung: 4.173 V
+Strom: 265.16 mA
+Laufzeit: 00:39:55
+Aktuelle Kapazität: 390.68 mAh
+Spannung: 4.175 V
+Strom: 263.44 mA
+Laufzeit: 00:40:00
+Aktuelle Kapazität: 390.80 mAh
+Spannung: 4.175 V
+Strom: 261.56 mA
+Laufzeit: 00:40:06
+Aktuelle Kapazität: 390.92 mAh
+Spannung: 4.175 V
+Strom: 260.78 mA
+Laufzeit: 00:40:11
+Aktuelle Kapazität: 391.04 mAh
+Spannung: 4.175 V
+Strom: 262.34 mA
+Laufzeit: 00:40:16
+Aktuelle Kapazität: 391.11 mAh
+Spannung: 4.176 V
+Strom: 259.37 mA
+Laufzeit: 00:40:21
+Aktuelle Kapazität: 391.23 mAh
+Spannung: 4.175 V
+Strom: 257.34 mA
+Laufzeit: 00:40:26
+Aktuelle Kapazität: 391.35 mAh
+Spannung: 4.176 V
+Strom: 256.87 mA
+Laufzeit: 00:40:31
+Aktuelle Kapazität: 391.46 mAh
+Spannung: 4.174 V
+Strom: 257.19 mA
+Laufzeit: 00:40:36
+Aktuelle Kapazität: 391.52 mAh
+Spannung: 4.176 V
+Strom: 255.31 mA
+Laufzeit: 00:40:41
+Aktuelle Kapazität: 391.66 mAh
+Spannung: 4.177 V
+Strom: 252.50 mA
+Laufzeit: 00:40:46
+Aktuelle Kapazität: 391.78 mAh
+Spannung: 4.176 V
+Strom: 250.62 mA
+Laufzeit: 00:40:52
+Aktuelle Kapazität: 391.89 mAh
+Spannung: 4.177 V
+Strom: 248.59 mA
+Laufzeit: 00:40:57
+Aktuelle Kapazität: 391.95 mAh
+Spannung: 4.177 V
+Strom: 247.97 mA
+Laufzeit: 00:41:02
+Aktuelle Kapazität: 392.09 mAh
+Spannung: 4.177 V
+Strom: 246.56 mA
+Laufzeit: 00:41:07
+Aktuelle Kapazität: 392.21 mAh
+Spannung: 4.177 V
+Strom: 246.56 mA
+Laufzeit: 00:41:12
+Aktuelle Kapazität: 392.32 mAh
+Spannung: 4.176 V
+Strom: 245.47 mA
+Laufzeit: 00:41:17
+Aktuelle Kapazität: 392.38 mAh
+Spannung: 4.177 V
+Strom: 242.66 mA
+Laufzeit: 00:41:22
+Aktuelle Kapazität: 392.50 mAh
+Spannung: 4.177 V
+Strom: 241.09 mA
+Laufzeit: 00:41:27
+Aktuelle Kapazität: 392.64 mAh
+Spannung: 4.178 V
+Strom: 242.50 mA
+Laufzeit: 00:41:33
+Aktuelle Kapazität: 392.70 mAh
+Spannung: 4.178 V
+Strom: 242.03 mA
+Laufzeit: 00:41:38
+Aktuelle Kapazität: 392.81 mAh
+Spannung: 4.179 V
+Strom: 239.84 mA
+Laufzeit: 00:41:43
+Aktuelle Kapazität: 392.93 mAh
+Spannung: 4.179 V
+Strom: 238.44 mA
+Laufzeit: 00:41:48
+Aktuelle Kapazität: 393.07 mAh
+Spannung: 4.177 V
+Strom: 237.03 mA
+Laufzeit: 00:41:53
+Aktuelle Kapazität: 393.12 mAh
+Spannung: 4.177 V
+Strom: 236.56 mA
+Laufzeit: 00:41:58
+Aktuelle Kapazität: 393.24 mAh
+Spannung: 4.179 V
+Strom: 235.00 mA
+Laufzeit: 00:42:03
+Aktuelle Kapazität: 393.36 mAh
+Spannung: 4.178 V
+Strom: 235.00 mA
+Laufzeit: 00:42:08
+Aktuelle Kapazität: 393.48 mAh
+Spannung: 4.180 V
+Strom: 234.69 mA
+Laufzeit: 00:42:14
+Aktuelle Kapazität: 393.55 mAh
+Spannung: 4.177 V
+Strom: 231.09 mA
+Laufzeit: 00:42:19
+Aktuelle Kapazität: 393.67 mAh
+Spannung: 4.180 V
+Strom: 229.84 mA
+Laufzeit: 00:42:24
+Aktuelle Kapazität: 393.79 mAh
+Spannung: 4.178 V
+Strom: 230.16 mA
+Laufzeit: 00:42:29
+Aktuelle Kapazität: 393.91 mAh
+Spannung: 4.179 V
+Strom: 233.12 mA
+Laufzeit: 00:42:34
+Aktuelle Kapazität: 393.96 mAh
+Spannung: 4.181 V
+Strom: 231.09 mA
+Laufzeit: 00:42:39
+Aktuelle Kapazität: 394.10 mAh
+Spannung: 4.181 V
+Strom: 228.91 mA
+Laufzeit: 00:42:44
+Aktuelle Kapazität: 394.22 mAh
+Spannung: 4.180 V
+Strom: 226.56 mA
+Laufzeit: 00:42:49
+Aktuelle Kapazität: 394.28 mAh
+Spannung: 4.180 V
+Strom: 225.62 mA
+Laufzeit: 00:42:54
+Aktuelle Kapazität: 394.39 mAh
+Spannung: 4.180 V
+Strom: 222.97 mA
+Laufzeit: 00:43:00
+Aktuelle Kapazität: 394.53 mAh
+Spannung: 4.180 V
+Strom: 224.53 mA
+Laufzeit: 00:43:05
+Aktuelle Kapazität: 394.65 mAh
+Spannung: 4.179 V
+Strom: 219.84 mA
+Laufzeit: 00:43:10
+Aktuelle Kapazität: 394.71 mAh
+Spannung: 4.180 V
+Strom: 222.81 mA
+Laufzeit: 00:43:15
+Aktuelle Kapazität: 394.82 mAh
+Spannung: 4.182 V
+Strom: 222.66 mA
+Laufzeit: 00:43:20
+Aktuelle Kapazität: 394.94 mAh
+Spannung: 4.180 V
+Strom: 222.66 mA
+Laufzeit: 00:43:25
+Aktuelle Kapazität: 395.08 mAh
+Spannung: 4.181 V
+Strom: 222.03 mA
+Laufzeit: 00:43:30
+Aktuelle Kapazität: 395.20 mAh
+Spannung: 4.182 V
+Strom: 220.16 mA
+Laufzeit: 00:43:35
+Aktuelle Kapazität: 395.25 mAh
+Spannung: 4.182 V
+Strom: 221.09 mA
+Laufzeit: 00:43:41
+Aktuelle Kapazität: 395.37 mAh
+Spannung: 4.182 V
+Strom: 218.28 mA
+Laufzeit: 00:43:46
+Aktuelle Kapazität: 395.51 mAh
+Spannung: 4.182 V
+Strom: 215.16 mA
+Laufzeit: 00:43:51
+Aktuelle Kapazität: 395.62 mAh
+Spannung: 4.184 V
+Strom: 219.22 mA
+Laufzeit: 00:43:56
+Aktuelle Kapazität: 395.68 mAh
+Spannung: 4.184 V
+Strom: 218.75 mA
+Laufzeit: 00:44:01
+Aktuelle Kapazität: 395.80 mAh
+Spannung: 4.182 V
+Strom: 212.34 mA
+Laufzeit: 00:44:06
+Aktuelle Kapazität: 395.92 mAh
+Spannung: 4.183 V
+Strom: 215.31 mA
+Laufzeit: 00:44:11
+Aktuelle Kapazität: 396.00 mAh
+Spannung: 4.183 V
+Strom: 212.19 mA
+Laufzeit: 00:44:16
+Aktuelle Kapazität: 396.11 mAh
+Spannung: 4.183 V
+Strom: 213.12 mA
+Laufzeit: 00:44:21
+Aktuelle Kapazität: 396.23 mAh
+Spannung: 4.182 V
+Strom: 212.81 mA
+Laufzeit: 00:44:27
+Aktuelle Kapazität: 396.35 mAh
+Spannung: 4.183 V
+Strom: 210.94 mA
+Laufzeit: 00:44:32
+Aktuelle Kapazität: 396.41 mAh
+Spannung: 4.183 V
+Strom: 210.16 mA
+Laufzeit: 00:44:37
+Aktuelle Kapazität: 396.54 mAh
+Spannung: 4.182 V
+Strom: 206.41 mA
+Laufzeit: 00:44:42
+Aktuelle Kapazität: 396.66 mAh
+Spannung: 4.182 V
+Strom: 207.34 mA
+Laufzeit: 00:44:47
+Aktuelle Kapazität: 396.78 mAh
+Spannung: 4.184 V
+Strom: 207.19 mA
+Laufzeit: 00:44:52
+Aktuelle Kapazität: 396.84 mAh
+Spannung: 4.183 V
+Strom: 204.37 mA
+Laufzeit: 00:44:57
+Aktuelle Kapazität: 396.97 mAh
+Spannung: 4.184 V
+Strom: 205.31 mA
+Laufzeit: 00:45:02
+Aktuelle Kapazität: 397.09 mAh
+Spannung: 4.184 V
+Strom: 205.16 mA
+Laufzeit: 00:45:08
+Aktuelle Kapazität: 397.21 mAh
+Spannung: 4.184 V
+Strom: 204.69 mA
+Laufzeit: 00:45:13
+Aktuelle Kapazität: 397.27 mAh
+Spannung: 4.183 V
+Strom: 202.03 mA
+Laufzeit: 00:45:18
+Aktuelle Kapazität: 397.38 mAh
+Spannung: 4.183 V
+Strom: 197.66 mA
+Laufzeit: 00:45:23
+Aktuelle Kapazität: 397.52 mAh
+Spannung: 4.185 V
+Strom: 202.34 mA
+Laufzeit: 00:45:28
+Aktuelle Kapazität: 397.58 mAh
+Spannung: 4.184 V
+Strom: 200.00 mA
+Laufzeit: 00:45:33
+Aktuelle Kapazität: 397.70 mAh
+Spannung: 4.186 V
+Strom: 201.72 mA
+Laufzeit: 00:45:38
+Aktuelle Kapazität: 397.81 mAh
+Spannung: 4.186 V
+Strom: 198.28 mA
+Laufzeit: 00:45:43
+Aktuelle Kapazität: 397.95 mAh
+Spannung: 4.185 V
+Strom: 198.44 mA
+Laufzeit: 00:45:49
+Aktuelle Kapazität: 398.01 mAh
+Spannung: 4.185 V
+Strom: 195.16 mA
+Laufzeit: 00:45:54
+Aktuelle Kapazität: 398.12 mAh
+Spannung: 4.185 V
+Strom: 197.34 mA
+Laufzeit: 00:45:59
+Aktuelle Kapazität: 398.24 mAh
+Spannung: 4.186 V
+Strom: 195.31 mA
+Laufzeit: 00:46:04
+Aktuelle Kapazität: 398.30 mAh
+Spannung: 4.185 V
+Strom: 193.28 mA
+Laufzeit: 00:46:09
+Aktuelle Kapazität: 398.44 mAh
+Spannung: 4.185 V
+Strom: 190.94 mA
+Laufzeit: 00:46:14
+Aktuelle Kapazität: 398.55 mAh
+Spannung: 4.187 V
+Strom: 190.94 mA
+Laufzeit: 00:46:19
+Aktuelle Kapazität: 398.61 mAh
+Spannung: 4.185 V
+Strom: 190.16 mA
+Laufzeit: 00:46:24
+Aktuelle Kapazität: 398.73 mAh
+Spannung: 4.185 V
+Strom: 192.50 mA
+Laufzeit: 00:46:29
+Aktuelle Kapazität: 398.85 mAh
+Spannung: 4.185 V
+Strom: 189.84 mA
+Laufzeit: 00:46:35
+Aktuelle Kapazität: 398.98 mAh
+Spannung: 4.186 V
+Strom: 187.03 mA
+Laufzeit: 00:46:40
+Aktuelle Kapazität: 399.04 mAh
+Spannung: 4.186 V
+Strom: 187.50 mA
+Laufzeit: 00:46:45
+Aktuelle Kapazität: 399.16 mAh
+Spannung: 4.185 V
+Strom: 186.09 mA
+Laufzeit: 00:46:50
+Aktuelle Kapazität: 399.28 mAh
+Spannung: 4.187 V
+Strom: 186.25 mA
+Laufzeit: 00:46:55
+Aktuelle Kapazität: 399.34 mAh
+Spannung: 4.188 V
+Strom: 185.94 mA
+Laufzeit: 00:47:00
+Aktuelle Kapazität: 399.47 mAh
+Spannung: 4.187 V
+Strom: 186.41 mA
+Laufzeit: 00:47:05
+Aktuelle Kapazität: 399.59 mAh
+Spannung: 4.186 V
+Strom: 184.22 mA
+Laufzeit: 00:47:10
+Aktuelle Kapazität: 399.65 mAh
+Spannung: 4.188 V
+Strom: 181.09 mA
+Laufzeit: 00:47:16
+Aktuelle Kapazität: 399.77 mAh
+Spannung: 4.186 V
+Strom: 182.50 mA
+Laufzeit: 00:47:21
+Aktuelle Kapazität: 399.90 mAh
+Spannung: 4.186 V
+Strom: 176.56 mA
+Laufzeit: 00:47:26
+Aktuelle Kapazität: 399.96 mAh
+Spannung: 4.187 V
+Strom: 181.87 mA
+Laufzeit: 00:47:31
+Aktuelle Kapazität: 400.08 mAh
+Spannung: 4.187 V
+Strom: 179.53 mA
+Laufzeit: 00:47:36
+Aktuelle Kapazität: 400.14 mAh
+Spannung: 4.186 V
+Strom: 178.44 mA
+Laufzeit: 00:47:41
+Aktuelle Kapazität: 400.25 mAh
+Spannung: 4.187 V
+Strom: 176.87 mA
+Laufzeit: 00:47:46
+Aktuelle Kapazität: 400.39 mAh
+Spannung: 4.187 V
+Strom: 175.47 mA
+Laufzeit: 00:47:51
+Aktuelle Kapazität: 400.45 mAh
+Spannung: 4.187 V
+Strom: 175.47 mA
+Laufzeit: 00:47:56
+Aktuelle Kapazität: 400.57 mAh
+Spannung: 4.188 V
+Strom: 176.41 mA
+Laufzeit: 00:48:02
+Aktuelle Kapazität: 400.68 mAh
+Spannung: 4.188 V
+Strom: 174.37 mA
+Laufzeit: 00:48:07
+Aktuelle Kapazität: 400.74 mAh
+Spannung: 4.188 V
+Strom: 172.97 mA
+Laufzeit: 00:48:12
+Aktuelle Kapazität: 400.88 mAh
+Spannung: 4.188 V
+Strom: 171.56 mA
+Laufzeit: 00:48:17
+Aktuelle Kapazität: 400.94 mAh
+Spannung: 4.187 V
+Strom: 170.16 mA
+Laufzeit: 00:48:22
+Aktuelle Kapazität: 401.05 mAh
+Spannung: 4.188 V
+Strom: 171.87 mA
+Laufzeit: 00:48:27
+Aktuelle Kapazität: 401.17 mAh
+Spannung: 4.188 V
+Strom: 167.97 mA
+Laufzeit: 00:48:32
+Aktuelle Kapazität: 401.23 mAh
+Spannung: 4.189 V
+Strom: 171.09 mA
+Laufzeit: 00:48:37
+Aktuelle Kapazität: 401.37 mAh
+Spannung: 4.187 V
+Strom: 167.97 mA
+Laufzeit: 00:48:43
+Aktuelle Kapazität: 401.48 mAh
+Spannung: 4.189 V
+Strom: 167.97 mA
+Laufzeit: 00:48:48
+Aktuelle Kapazität: 401.54 mAh
+Spannung: 4.189 V
+Strom: 167.50 mA
+Laufzeit: 00:48:53
+Aktuelle Kapazität: 401.66 mAh
+Spannung: 4.188 V
+Strom: 168.44 mA
+Laufzeit: 00:48:58
+Aktuelle Kapazität: 401.72 mAh
+Spannung: 4.190 V
+Strom: 169.06 mA
+Laufzeit: 00:49:03
+Aktuelle Kapazität: 401.86 mAh
+Spannung: 4.189 V
+Strom: 161.41 mA
+Laufzeit: 00:49:08
+Aktuelle Kapazität: 401.91 mAh
+Spannung: 4.190 V
+Strom: 163.75 mA
+Laufzeit: 00:49:13
+Aktuelle Kapazität: 402.03 mAh
+Spannung: 4.189 V
+Strom: 162.19 mA
+Laufzeit: 00:49:18
+Aktuelle Kapazität: 402.15 mAh
+Spannung: 4.189 V
+Strom: 161.72 mA
+Laufzeit: 00:49:24
+Aktuelle Kapazität: 402.21 mAh
+Spannung: 4.187 V
+Strom: 159.37 mA
+Laufzeit: 00:49:29
+Aktuelle Kapazität: 402.34 mAh
+Spannung: 4.190 V
+Strom: 162.03 mA
+Laufzeit: 00:49:34
+Aktuelle Kapazität: 402.40 mAh
+Spannung: 4.187 V
+Strom: 159.22 mA
+Laufzeit: 00:49:39
+Aktuelle Kapazität: 402.52 mAh
+Spannung: 4.189 V
+Strom: 158.44 mA
+Laufzeit: 00:49:44
+Aktuelle Kapazität: 402.58 mAh
+Spannung: 4.188 V
+Strom: 156.25 mA
+Laufzeit: 00:49:49
+Aktuelle Kapazität: 402.70 mAh
+Spannung: 4.189 V
+Strom: 154.69 mA
+Laufzeit: 00:49:54
+Aktuelle Kapazität: 402.75 mAh
+Spannung: 4.189 V
+Strom: 157.19 mA
+Laufzeit: 00:49:59
+Aktuelle Kapazität: 402.89 mAh
+Spannung: 4.189 V
+Strom: 158.59 mA
+Laufzeit: 00:50:04
+Aktuelle Kapazität: 402.95 mAh
+Spannung: 4.190 V
+Strom: 157.66 mA
+Laufzeit: 00:50:10
+Aktuelle Kapazität: 403.07 mAh
+Spannung: 4.190 V
+Strom: 158.28 mA
+Laufzeit: 00:50:15
+Aktuelle Kapazität: 403.18 mAh
+Spannung: 4.191 V
+Strom: 155.47 mA
+Laufzeit: 00:50:20
+Aktuelle Kapazität: 403.24 mAh
+Spannung: 4.190 V
+Strom: 155.31 mA
+Laufzeit: 00:50:25
+Aktuelle Kapazität: 403.38 mAh
+Spannung: 4.191 V
+Strom: 155.16 mA
+Laufzeit: 00:50:30
+Aktuelle Kapazität: 403.44 mAh
+Spannung: 4.191 V
+Strom: 152.66 mA
+Laufzeit: 00:50:35
+Aktuelle Kapazität: 403.50 mAh
+Spannung: 4.192 V
+Strom: 153.59 mA
+Laufzeit: 00:50:40
+Aktuelle Kapazität: 403.61 mAh
+Spannung: 4.191 V
+Strom: 152.66 mA
+Laufzeit: 00:50:45
+Aktuelle Kapazität: 403.67 mAh
+Spannung: 4.190 V
+Strom: 147.81 mA
+Laufzeit: 00:50:51
+Aktuelle Kapazität: 403.81 mAh
+Spannung: 4.191 V
+Strom: 149.69 mA
+Laufzeit: 00:50:56
+Aktuelle Kapazität: 403.87 mAh
+Spannung: 4.191 V
+Strom: 150.62 mA
+Laufzeit: 00:51:01
+Aktuelle Kapazität: 403.98 mAh
+Spannung: 4.192 V
+Strom: 150.47 mA
+Laufzeit: 00:51:06
+Aktuelle Kapazität: 404.04 mAh
+Spannung: 4.191 V
+Strom: 147.19 mA
+Laufzeit: 00:51:11
+Aktuelle Kapazität: 404.16 mAh
+Spannung: 4.191 V
+Strom: 146.09 mA
+Laufzeit: 00:51:16
+Aktuelle Kapazität: 404.22 mAh
+Spannung: 4.191 V
+Strom: 145.47 mA
+Laufzeit: 00:51:21
+Aktuelle Kapazität: 404.36 mAh
+Spannung: 4.192 V
+Strom: 143.59 mA
+Laufzeit: 00:51:26
+Aktuelle Kapazität: 404.41 mAh
+Spannung: 4.192 V
+Strom: 146.25 mA
+Laufzeit: 00:51:31
+Aktuelle Kapazität: 404.53 mAh
+Spannung: 4.191 V
+Strom: 140.62 mA
+Laufzeit: 00:51:37
+Aktuelle Kapazität: 404.59 mAh
+Spannung: 4.192 V
+Strom: 146.25 mA
+Laufzeit: 00:51:42
+Aktuelle Kapazität: 404.65 mAh
+Spannung: 4.193 V
+Strom: 143.75 mA
+Laufzeit: 00:51:47
+Aktuelle Kapazität: 404.79 mAh
+Spannung: 4.192 V
+Strom: 141.41 mA
+Laufzeit: 00:51:52
+Aktuelle Kapazität: 404.84 mAh
+Spannung: 4.192 V
+Strom: 141.87 mA
+Laufzeit: 00:51:57
+Aktuelle Kapazität: 404.96 mAh
+Spannung: 4.193 V
+Strom: 142.81 mA
+Laufzeit: 00:52:02
+Aktuelle Kapazität: 405.02 mAh
+Spannung: 4.192 V
+Strom: 138.91 mA
+Laufzeit: 00:52:07
+Aktuelle Kapazität: 405.08 mAh
+Spannung: 4.193 V
+Strom: 140.47 mA
+Laufzeit: 00:52:12
+Aktuelle Kapazität: 405.20 mAh
+Spannung: 4.193 V
+Strom: 137.81 mA
+Laufzeit: 00:52:18
+Aktuelle Kapazität: 405.27 mAh
+Spannung: 4.193 V
+Strom: 139.84 mA
+Laufzeit: 00:52:23
+Aktuelle Kapazität: 405.39 mAh
+Spannung: 4.193 V
+Strom: 137.50 mA
+Laufzeit: 00:52:28
+Aktuelle Kapazität: 405.45 mAh
+Spannung: 4.193 V
+Strom: 137.50 mA
+Laufzeit: 00:52:33
+Aktuelle Kapazität: 405.51 mAh
+Spannung: 4.194 V
+Strom: 134.69 mA
+Laufzeit: 00:52:38
+Aktuelle Kapazität: 405.62 mAh
+Spannung: 4.192 V
+Strom: 137.34 mA
+Laufzeit: 00:52:43
+Aktuelle Kapazität: 405.68 mAh
+Spannung: 4.193 V
+Strom: 133.75 mA
+Laufzeit: 00:52:48
+Aktuelle Kapazität: 405.76 mAh
+Spannung: 4.194 V
+Strom: 133.44 mA
+Laufzeit: 00:52:53
+Aktuelle Kapazität: 405.88 mAh
+Spannung: 4.193 V
+Strom: 132.97 mA
+Laufzeit: 00:52:59
+Aktuelle Kapazität: 405.94 mAh
+Spannung: 4.192 V
+Strom: 133.91 mA
+Laufzeit: 00:53:04
+Aktuelle Kapazität: 406.00 mAh
+Spannung: 4.194 V
+Strom: 132.34 mA
+Laufzeit: 00:53:09
+Aktuelle Kapazität: 406.11 mAh
+Spannung: 4.193 V
+Strom: 133.59 mA
+Laufzeit: 00:53:14
+Aktuelle Kapazität: 406.17 mAh
+Spannung: 4.195 V
+Strom: 130.78 mA
+Laufzeit: 00:53:19
+Aktuelle Kapazität: 406.25 mAh
+Spannung: 4.194 V
+Strom: 131.87 mA
+Laufzeit: 00:53:24
+Aktuelle Kapazität: 406.37 mAh
+Spannung: 4.193 V
+Strom: 128.59 mA
+Laufzeit: 00:53:29
+Aktuelle Kapazität: 406.43 mAh
+Spannung: 4.193 V
+Strom: 127.66 mA
+Laufzeit: 00:53:34
+Aktuelle Kapazität: 406.48 mAh
+Spannung: 4.194 V
+Strom: 126.41 mA
+Laufzeit: 00:53:39
+Aktuelle Kapazität: 406.60 mAh
+Spannung: 4.195 V
+Strom: 130.47 mA
+Laufzeit: 00:53:45
+Aktuelle Kapazität: 406.66 mAh
+Spannung: 4.194 V
+Strom: 124.06 mA
+Laufzeit: 00:53:50
+Aktuelle Kapazität: 406.74 mAh
+Spannung: 4.193 V
+Strom: 125.94 mA
+Laufzeit: 00:53:55
+Aktuelle Kapazität: 406.80 mAh
+Spannung: 4.195 V
+Strom: 129.69 mA
+Laufzeit: 00:54:00
+Aktuelle Kapazität: 406.91 mAh
+Spannung: 4.194 V
+Strom: 125.47 mA
+Laufzeit: 00:54:05
+Aktuelle Kapazität: 406.97 mAh
+Spannung: 4.194 V
+Strom: 124.06 mA
+Laufzeit: 00:54:10
+Aktuelle Kapazität: 407.03 mAh
+Spannung: 4.194 V
+Strom: 121.09 mA
+Laufzeit: 00:54:15
+Aktuelle Kapazität: 407.15 mAh
+Spannung: 4.193 V
+Strom: 123.28 mA
+Laufzeit: 00:54:20
+Aktuelle Kapazität: 407.23 mAh
+Spannung: 4.194 V
+Strom: 120.47 mA
+Laufzeit: 00:54:26
+Aktuelle Kapazität: 407.29 mAh
+Spannung: 4.194 V
+Strom: 124.69 mA
+Laufzeit: 00:54:31
+Aktuelle Kapazität: 407.34 mAh
+Spannung: 4.195 V
+Strom: 123.59 mA
+Laufzeit: 00:54:36
+Aktuelle Kapazität: 407.46 mAh
+Spannung: 4.193 V
+Strom: 124.37 mA
+Laufzeit: 00:54:41
+Aktuelle Kapazität: 407.52 mAh
+Spannung: 4.194 V
+Strom: 121.72 mA
+Laufzeit: 00:54:46
+Aktuelle Kapazität: 407.58 mAh
+Spannung: 4.195 V
+Strom: 120.78 mA
+Laufzeit: 00:54:51
+Aktuelle Kapazität: 407.64 mAh
+Spannung: 4.196 V
+Strom: 118.91 mA
+Laufzeit: 00:54:56
+Aktuelle Kapazität: 407.77 mAh
+Spannung: 4.197 V
+Strom: 121.41 mA
+Laufzeit: 00:55:01
+Aktuelle Kapazität: 407.83 mAh
+Spannung: 4.194 V
+Strom: 119.53 mA
+Laufzeit: 00:55:06
+Aktuelle Kapazität: 407.89 mAh
+Spannung: 4.194 V
+Strom: 117.97 mA
+Laufzeit: 00:55:12
+Aktuelle Kapazität: 407.95 mAh
+Spannung: 4.194 V
+Strom: 118.12 mA
+Laufzeit: 00:55:17
+Aktuelle Kapazität: 408.01 mAh
+Spannung: 4.195 V
+Strom: 119.37 mA
+Laufzeit: 00:55:22
+Aktuelle Kapazität: 408.12 mAh
+Spannung: 4.195 V
+Strom: 117.66 mA
+Laufzeit: 00:55:27
+Aktuelle Kapazität: 408.20 mAh
+Spannung: 4.195 V
+Strom: 117.34 mA
+Laufzeit: 00:55:32
+Aktuelle Kapazität: 408.26 mAh
+Spannung: 4.197 V
+Strom: 117.50 mA
+Laufzeit: 00:55:37
+Aktuelle Kapazität: 408.32 mAh
+Spannung: 4.195 V
+Strom: 114.37 mA
+Laufzeit: 00:55:42
+Aktuelle Kapazität: 408.44 mAh
+Spannung: 4.195 V
+Strom: 115.62 mA
+Laufzeit: 00:55:47
+Aktuelle Kapazität: 408.50 mAh
+Spannung: 4.195 V
+Strom: 114.37 mA
+Laufzeit: 00:55:53
+Aktuelle Kapazität: 408.55 mAh
+Spannung: 4.195 V
+Strom: 114.53 mA
+Laufzeit: 00:55:58
+Aktuelle Kapazität: 408.61 mAh
+Spannung: 4.195 V
+Strom: 112.81 mA
+Laufzeit: 00:56:03
+Aktuelle Kapazität: 408.69 mAh
+Spannung: 4.195 V
+Strom: 115.16 mA
+Laufzeit: 00:56:08
+Aktuelle Kapazität: 408.75 mAh
+Spannung: 4.196 V
+Strom: 111.56 mA
+Laufzeit: 00:56:13
+Aktuelle Kapazität: 408.87 mAh
+Spannung: 4.196 V
+Strom: 110.62 mA
+Laufzeit: 00:56:18
+Aktuelle Kapazität: 408.93 mAh
+Spannung: 4.197 V
+Strom: 110.78 mA
+Laufzeit: 00:56:23
+Aktuelle Kapazität: 408.98 mAh
+Spannung: 4.196 V
+Strom: 112.03 mA
+Laufzeit: 00:56:28
+Aktuelle Kapazität: 409.04 mAh
+Spannung: 4.197 V
+Strom: 110.78 mA
+Laufzeit: 00:56:33
+Aktuelle Kapazität: 409.10 mAh
+Spannung: 4.197 V
+Strom: 108.75 mA
+Laufzeit: 00:56:39
+Aktuelle Kapazität: 409.18 mAh
+Spannung: 4.196 V
+Strom: 108.91 mA
+Laufzeit: 00:56:44
+Aktuelle Kapazität: 409.30 mAh
+Spannung: 4.197 V
+Strom: 109.84 mA
+Laufzeit: 00:56:49
+Aktuelle Kapazität: 409.36 mAh
+Spannung: 4.196 V
+Strom: 108.75 mA
+Laufzeit: 00:56:54
+Aktuelle Kapazität: 409.41 mAh
+Spannung: 4.197 V
+Strom: 107.97 mA
+Laufzeit: 00:56:59
+Aktuelle Kapazität: 409.47 mAh
+Spannung: 4.197 V
+Strom: 105.16 mA
+Laufzeit: 00:57:04
+Aktuelle Kapazität: 409.53 mAh
+Spannung: 4.196 V
+Strom: 107.03 mA
+Laufzeit: 00:57:09
+Aktuelle Kapazität: 409.59 mAh
+Spannung: 4.197 V
+Strom: 107.03 mA
+Laufzeit: 00:57:14
+Aktuelle Kapazität: 409.67 mAh
+Spannung: 4.199 V
+Strom: 105.62 mA
+Laufzeit: 00:57:20
+Aktuelle Kapazität: 409.73 mAh
+Spannung: 4.196 V
+Strom: 102.97 mA
+Laufzeit: 00:57:25
+Aktuelle Kapazität: 409.84 mAh
+Spannung: 4.197 V
+Strom: 103.59 mA
+Laufzeit: 00:57:30
+Aktuelle Kapazität: 409.90 mAh
+Spannung: 4.197 V
+Strom: 100.00 mA
+Laufzeit: 00:57:35
+Aktuelle Kapazität: 409.96 mAh
+Spannung: 4.196 V
+Strom: 103.12 mA
+Laufzeit: 00:57:40
+Aktuelle Kapazität: 410.02 mAh
+Spannung: 4.195 V
+Strom: 102.03 mA
+Laufzeit: 00:57:45
+Aktuelle Kapazität: 410.08 mAh
+Spannung: 4.197 V
+Strom: 102.66 mA
+Laufzeit: 00:57:50
+Aktuelle Kapazität: 410.16 mAh
+Spannung: 4.198 V
+Strom: 100.78 mA
+Laufzeit: 00:57:55
+Aktuelle Kapazität: 410.21 mAh
+Spannung: 4.197 V
+Strom: 99.53 mA
+Laufzeit: 00:58:01
+Aktuelle Kapazität: 410.27 mAh
+Spannung: 4.195 V
+Strom: 101.72 mA
+Laufzeit: 00:58:06
+Aktuelle Kapazität: 410.33 mAh
+Spannung: 4.197 V
+Strom: 101.72 mA
+Laufzeit: 00:58:11
+Aktuelle Kapazität: 410.39 mAh
+Spannung: 4.198 V
+Strom: 98.12 mA
+Laufzeit: 00:58:16
+Aktuelle Kapazität: 410.45 mAh
+Spannung: 4.197 V
+Strom: 99.22 mA
+Laufzeit: 00:58:21
+Aktuelle Kapazität: 410.51 mAh
+Spannung: 4.198 V
+Strom: 99.84 mA
+Laufzeit: 00:58:26
+Aktuelle Kapazität: 410.57 mAh
+Spannung: 4.196 V
+Strom: 100.00 mA
+Laufzeit: 00:58:31
+Aktuelle Kapazität: 410.64 mAh
+Spannung: 4.195 V
+Strom: 96.09 mA
+Laufzeit: 00:58:36
+Aktuelle Kapazität: 410.70 mAh
+Spannung: 4.197 V
+Strom: 97.19 mA
+Laufzeit: 00:58:41
+Aktuelle Kapazität: 410.82 mAh
+Spannung: 4.198 V
+Strom: 98.91 mA
+Laufzeit: 00:58:47
+Aktuelle Kapazität: 410.88 mAh
+Spannung: 4.199 V
+Strom: 97.50 mA
+Laufzeit: 00:58:52
+Aktuelle Kapazität: 410.94 mAh
+Spannung: 4.198 V
+Strom: 95.16 mA
+Laufzeit: 00:58:57
+Aktuelle Kapazität: 411.00 mAh
+Spannung: 4.197 V
+Strom: 98.75 mA
+Laufzeit: 00:59:02
+Aktuelle Kapazität: 411.05 mAh
+Spannung: 4.198 V
+Strom: 94.69 mA
+Laufzeit: 00:59:07
+Aktuelle Kapazität: 411.13 mAh
+Spannung: 4.199 V
+Strom: 94.69 mA
+Laufzeit: 00:59:12
+Aktuelle Kapazität: 411.19 mAh
+Spannung: 4.198 V
+Strom: 95.94 mA
+Laufzeit: 00:59:17
+Aktuelle Kapazität: 411.25 mAh
+Spannung: 4.197 V
+Strom: 92.19 mA
+Laufzeit: 00:59:22
+Aktuelle Kapazität: 411.31 mAh
+Spannung: 4.198 V
+Strom: 94.53 mA
+Laufzeit: 00:59:28
+Aktuelle Kapazität: 411.37 mAh
+Spannung: 4.198 V
+Strom: 93.59 mA
+Laufzeit: 00:59:33
+Aktuelle Kapazität: 411.43 mAh
+Spannung: 4.199 V
+Strom: 93.12 mA
+Laufzeit: 00:59:38
+Aktuelle Kapazität: 411.48 mAh
+Spannung: 4.198 V
+Strom: 92.19 mA
+Laufzeit: 00:59:43
+Aktuelle Kapazität: 411.54 mAh
+Spannung: 4.199 V
+Strom: 92.97 mA
+Laufzeit: 00:59:48
+Aktuelle Kapazität: 411.62 mAh
+Spannung: 4.199 V
+Strom: 94.22 mA
+Laufzeit: 00:59:53
+Aktuelle Kapazität: 411.68 mAh
+Spannung: 4.198 V
+Strom: 93.91 mA
+Laufzeit: 00:59:58
+Aktuelle Kapazität: 411.74 mAh
+Spannung: 4.199 V
+Strom: 89.84 mA
+Laufzeit: 01:00:03
+Aktuelle Kapazität: 411.80 mAh
+Spannung: 4.199 V
+Strom: 89.84 mA
+Laufzeit: 01:00:08
+Aktuelle Kapazität: 411.80 mAh
+Spannung: 4.171 V
+Strom: -3.28 mA
+Laufzeit: 01:00:14
+Aktuelle Kapazität: 411.80 mAh
+Spannung: 4.168 V
+Strom: -5.00 mA
+Laufzeit: 01:00:19
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.166 V
+Strom: -4.22 mA
+Laufzeit: 01:00:24
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.165 V
+Strom: -4.22 mA
+Laufzeit: 01:00:29
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.165 V
+Strom: -4.37 mA
+Laufzeit: 01:00:34
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.164 V
+Strom: -4.06 mA
+Laufzeit: 01:00:39
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.163 V
+Strom: -4.53 mA
+Laufzeit: 01:00:44
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.162 V
+Strom: -4.06 mA
+Laufzeit: 01:00:49
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.162 V
+Strom: -2.97 mA
+Laufzeit: 01:00:55
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.162 V
+Strom: -4.37 mA
+Laufzeit: 01:01:00
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.161 V
+Strom: -4.22 mA
+Laufzeit: 01:01:05
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.161 V
+Strom: -5.31 mA
+Laufzeit: 01:01:10
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.160 V
+Strom: -3.44 mA
+Laufzeit: 01:01:15
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.160 V
+Strom: -4.37 mA
+Laufzeit: 01:01:20
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.159 V
+Strom: -5.94 mA
+Laufzeit: 01:01:25
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.159 V
+Strom: -5.62 mA
+Laufzeit: 01:01:30
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.160 V
+Strom: -4.53 mA
+Laufzeit: 01:01:36
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.159 V
+Strom: -4.22 mA
+Laufzeit: 01:01:41
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.158 V
+Strom: -2.66 mA
+Laufzeit: 01:01:46
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.159 V
+Strom: -5.16 mA
+Laufzeit: 01:01:51
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -5.94 mA
+Laufzeit: 01:01:56
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.158 V
+Strom: -5.00 mA
+Laufzeit: 01:02:01
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -6.41 mA
+Laufzeit: 01:02:06
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -2.34 mA
+Laufzeit: 01:02:11
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -2.66 mA
+Laufzeit: 01:02:16
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -2.66 mA
+Laufzeit: 01:02:22
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -2.97 mA
+Laufzeit: 01:02:27
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -3.91 mA
+Laufzeit: 01:02:32
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -3.28 mA
+Laufzeit: 01:02:37
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -6.25 mA
+Laufzeit: 01:02:42
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -3.59 mA
+Laufzeit: 01:02:47
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.155 V
+Strom: -4.06 mA
+Laufzeit: 01:02:52
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -4.53 mA
+Laufzeit: 01:02:57
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -4.37 mA
+Laufzeit: 01:03:03
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -3.91 mA
+Laufzeit: 01:03:08
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.155 V
+Strom: -3.12 mA
+Laufzeit: 01:03:13
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -5.00 mA
+Laufzeit: 01:03:18
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.157 V
+Strom: -3.44 mA
+Laufzeit: 01:03:23
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -5.94 mA
+Laufzeit: 01:03:28
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -5.62 mA
+Laufzeit: 01:03:33
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -4.37 mA
+Laufzeit: 01:03:38
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.155 V
+Strom: -3.28 mA
+Laufzeit: 01:03:43
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -3.28 mA
+Laufzeit: 01:03:49
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -5.62 mA
+Laufzeit: 01:03:54
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.155 V
+Strom: -6.56 mA
+Laufzeit: 01:03:59
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -4.22 mA
+Laufzeit: 01:04:04
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -3.91 mA
+Laufzeit: 01:04:09
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.155 V
+Strom: -5.31 mA
+Laufzeit: 01:04:14
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -3.91 mA
+Laufzeit: 01:04:19
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -4.37 mA
+Laufzeit: 01:04:24
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.156 V
+Strom: -4.84 mA
+Laufzeit: 01:04:30
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -3.91 mA
+Laufzeit: 01:04:35
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -5.00 mA
+Laufzeit: 01:04:40
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -4.37 mA
+Laufzeit: 01:04:45
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -4.22 mA
+Laufzeit: 01:04:50
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -4.06 mA
+Laufzeit: 01:04:55
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -3.91 mA
+Laufzeit: 01:05:00
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.152 V
+Strom: -4.22 mA
+Laufzeit: 01:05:05
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -5.00 mA
+Laufzeit: 01:05:11
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.152 V
+Strom: -4.06 mA
+Laufzeit: 01:05:16
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -3.91 mA
+Laufzeit: 01:05:21
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -5.16 mA
+Laufzeit: 01:05:26
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -4.37 mA
+Laufzeit: 01:05:31
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -4.06 mA
+Laufzeit: 01:05:36
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.152 V
+Strom: -5.16 mA
+Laufzeit: 01:05:41
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -5.47 mA
+Laufzeit: 01:05:46
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.154 V
+Strom: -3.59 mA
+Laufzeit: 01:05:51
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -4.84 mA
+Laufzeit: 01:05:57
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.151 V
+Strom: -4.22 mA
+Laufzeit: 01:06:02
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.153 V
+Strom: -4.53 mA
+Laufzeit: 01:06:07
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.152 V
+Strom: -5.00 mA
+Laufzeit: 01:06:12
+Aktuelle Kapazität: 411.86 mAh
+Spannung: 4.152 V
+Strom: -4.84 mA
+
