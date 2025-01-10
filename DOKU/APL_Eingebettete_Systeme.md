@@ -78,6 +78,6 @@ https://github.com/AwotG/Arduino-MAX17055_Driver/tree/master
 - und ein Skript, welches aus der csv dann die Daten in einen Graphen plottet (**plotData.py**)
 - das Laden und Entladen dauert relativ lange, dummerweise habe ich das einmal gemacht, aber man kann irgendwie nicht alles aus der seriellen Schnittstelle in der Arduino IDE kopieren
 - deswegen habe ich auf Putty gewechselt und nicht komplett entladen sondern nur eine halbe Stunde entladen und eine halbe Stunde geladen
-- die geplotteten Graphne sehen dann ungefähr so aus:
+- die geplotteten Graphen sehen dann ungefähr so aus:
 
 ![alt text](graphen.png)
